@@ -1,0 +1,343 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-04 17:18 +0530
+NSE: Loaded 158 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 17:18
+Completed NSE at 17:18, 0.00s elapsed
+Initiating NSE at 17:18
+Completed NSE at 17:18, 0.00s elapsed
+Initiating NSE at 17:18
+Completed NSE at 17:18, 0.00s elapsed
+Initiating ARP Ping Scan at 17:18
+Scanning 255 hosts [1 port/host]
+Completed ARP Ping Scan at 17:18, 11.02s elapsed (255 total hosts)
+Initiating Parallel DNS resolution of 255 hosts. at 17:18
+Completed Parallel DNS resolution of 255 hosts. at 17:19, 51.30s elapsed
+Nmap scan report for 192.168.56.0 [host down]
+Nmap scan report for 192.168.56.2 [host down]
+Nmap scan report for 192.168.56.3 [host down]
+Nmap scan report for 192.168.56.4 [host down]
+Nmap scan report for 192.168.56.5 [host down]
+Nmap scan report for 192.168.56.6 [host down]
+Nmap scan report for 192.168.56.7 [host down]
+Nmap scan report for 192.168.56.8 [host down]
+Nmap scan report for 192.168.56.9 [host down]
+Nmap scan report for 192.168.56.10 [host down]
+Nmap scan report for 192.168.56.11 [host down]
+Nmap scan report for 192.168.56.12 [host down]
+Nmap scan report for 192.168.56.13 [host down]
+Nmap scan report for 192.168.56.14 [host down]
+Nmap scan report for 192.168.56.15 [host down]
+Nmap scan report for 192.168.56.16 [host down]
+Nmap scan report for 192.168.56.17 [host down]
+Nmap scan report for 192.168.56.18 [host down]
+Nmap scan report for 192.168.56.19 [host down]
+Nmap scan report for 192.168.56.20 [host down]
+Nmap scan report for 192.168.56.21 [host down]
+Nmap scan report for 192.168.56.22 [host down]
+Nmap scan report for 192.168.56.23 [host down]
+Nmap scan report for 192.168.56.24 [host down]
+Nmap scan report for 192.168.56.25 [host down]
+Nmap scan report for 192.168.56.26 [host down]
+Nmap scan report for 192.168.56.27 [host down]
+Nmap scan report for 192.168.56.28 [host down]
+Nmap scan report for 192.168.56.29 [host down]
+Nmap scan report for 192.168.56.30 [host down]
+Nmap scan report for 192.168.56.31 [host down]
+Nmap scan report for 192.168.56.32 [host down]
+Nmap scan report for 192.168.56.33 [host down]
+Nmap scan report for 192.168.56.34 [host down]
+Nmap scan report for 192.168.56.35 [host down]
+Nmap scan report for 192.168.56.36 [host down]
+Nmap scan report for 192.168.56.37 [host down]
+Nmap scan report for 192.168.56.38 [host down]
+Nmap scan report for 192.168.56.39 [host down]
+Nmap scan report for 192.168.56.40 [host down]
+Nmap scan report for 192.168.56.41 [host down]
+Nmap scan report for 192.168.56.42 [host down]
+Nmap scan report for 192.168.56.43 [host down]
+Nmap scan report for 192.168.56.44 [host down]
+Nmap scan report for 192.168.56.45 [host down]
+Nmap scan report for 192.168.56.46 [host down]
+Nmap scan report for 192.168.56.47 [host down]
+Nmap scan report for 192.168.56.48 [host down]
+Nmap scan report for 192.168.56.49 [host down]
+Nmap scan report for 192.168.56.50 [host down]
+Nmap scan report for 192.168.56.51 [host down]
+Nmap scan report for 192.168.56.52 [host down]
+Nmap scan report for 192.168.56.53 [host down]
+Nmap scan report for 192.168.56.54 [host down]
+Nmap scan report for 192.168.56.55 [host down]
+Nmap scan report for 192.168.56.56 [host down]
+Nmap scan report for 192.168.56.57 [host down]
+Nmap scan report for 192.168.56.58 [host down]
+Nmap scan report for 192.168.56.59 [host down]
+Nmap scan report for 192.168.56.60 [host down]
+Nmap scan report for 192.168.56.61 [host down]
+Nmap scan report for 192.168.56.62 [host down]
+Nmap scan report for 192.168.56.63 [host down]
+Nmap scan report for 192.168.56.64 [host down]
+Nmap scan report for 192.168.56.65 [host down]
+Nmap scan report for 192.168.56.66 [host down]
+Nmap scan report for 192.168.56.67 [host down]
+Nmap scan report for 192.168.56.68 [host down]
+Nmap scan report for 192.168.56.69 [host down]
+Nmap scan report for 192.168.56.70 [host down]
+Nmap scan report for 192.168.56.71 [host down]
+Nmap scan report for 192.168.56.72 [host down]
+Nmap scan report for 192.168.56.73 [host down]
+Nmap scan report for 192.168.56.74 [host down]
+Nmap scan report for 192.168.56.75 [host down]
+Nmap scan report for 192.168.56.76 [host down]
+Nmap scan report for 192.168.56.77 [host down]
+Nmap scan report for 192.168.56.78 [host down]
+Nmap scan report for 192.168.56.79 [host down]
+Nmap scan report for 192.168.56.80 [host down]
+Nmap scan report for 192.168.56.81 [host down]
+Nmap scan report for 192.168.56.82 [host down]
+Nmap scan report for 192.168.56.83 [host down]
+Nmap scan report for 192.168.56.84 [host down]
+Nmap scan report for 192.168.56.85 [host down]
+Nmap scan report for 192.168.56.86 [host down]
+Nmap scan report for 192.168.56.87 [host down]
+Nmap scan report for 192.168.56.88 [host down]
+Nmap scan report for 192.168.56.89 [host down]
+Nmap scan report for 192.168.56.90 [host down]
+Nmap scan report for 192.168.56.91 [host down]
+Nmap scan report for 192.168.56.92 [host down]
+Nmap scan report for 192.168.56.93 [host down]
+Nmap scan report for 192.168.56.94 [host down]
+Nmap scan report for 192.168.56.95 [host down]
+Nmap scan report for 192.168.56.96 [host down]
+Nmap scan report for 192.168.56.97 [host down]
+Nmap scan report for 192.168.56.98 [host down]
+Nmap scan report for 192.168.56.99 [host down]
+Nmap scan report for 192.168.56.100 [host down]
+Nmap scan report for 192.168.56.101 [host down]
+Nmap scan report for 192.168.56.102 [host down]
+Nmap scan report for 192.168.56.103 [host down]
+Nmap scan report for 192.168.56.104 [host down]
+Nmap scan report for 192.168.56.105 [host down]
+Nmap scan report for 192.168.56.106 [host down]
+Nmap scan report for 192.168.56.107 [host down]
+Nmap scan report for 192.168.56.108 [host down]
+Nmap scan report for 192.168.56.109 [host down]
+Nmap scan report for 192.168.56.110 [host down]
+Nmap scan report for 192.168.56.111 [host down]
+Nmap scan report for 192.168.56.112 [host down]
+Nmap scan report for 192.168.56.113 [host down]
+Nmap scan report for 192.168.56.114 [host down]
+Nmap scan report for 192.168.56.115 [host down]
+Nmap scan report for 192.168.56.116 [host down]
+Nmap scan report for 192.168.56.117 [host down]
+Nmap scan report for 192.168.56.118 [host down]
+Nmap scan report for 192.168.56.119 [host down]
+Nmap scan report for 192.168.56.120 [host down]
+Nmap scan report for 192.168.56.121 [host down]
+Nmap scan report for 192.168.56.122 [host down]
+Nmap scan report for 192.168.56.123 [host down]
+Nmap scan report for 192.168.56.124 [host down]
+Nmap scan report for 192.168.56.125 [host down]
+Nmap scan report for 192.168.56.126 [host down]
+Nmap scan report for 192.168.56.127 [host down]
+Nmap scan report for 192.168.56.128 [host down]
+Nmap scan report for 192.168.56.129 [host down]
+Nmap scan report for 192.168.56.130 [host down]
+Nmap scan report for 192.168.56.131 [host down]
+Nmap scan report for 192.168.56.132 [host down]
+Nmap scan report for 192.168.56.133 [host down]
+Nmap scan report for 192.168.56.134 [host down]
+Nmap scan report for 192.168.56.135 [host down]
+Nmap scan report for 192.168.56.136 [host down]
+Nmap scan report for 192.168.56.137 [host down]
+Nmap scan report for 192.168.56.138 [host down]
+Nmap scan report for 192.168.56.139 [host down]
+Nmap scan report for 192.168.56.140 [host down]
+Nmap scan report for 192.168.56.141 [host down]
+Nmap scan report for 192.168.56.142 [host down]
+Nmap scan report for 192.168.56.143 [host down]
+Nmap scan report for 192.168.56.144 [host down]
+Nmap scan report for 192.168.56.145 [host down]
+Nmap scan report for 192.168.56.146 [host down]
+Nmap scan report for 192.168.56.147 [host down]
+Nmap scan report for 192.168.56.148 [host down]
+Nmap scan report for 192.168.56.149 [host down]
+Nmap scan report for 192.168.56.150 [host down]
+Nmap scan report for 192.168.56.151 [host down]
+Nmap scan report for 192.168.56.152 [host down]
+Nmap scan report for 192.168.56.153 [host down]
+Nmap scan report for 192.168.56.154 [host down]
+Nmap scan report for 192.168.56.155 [host down]
+Nmap scan report for 192.168.56.156 [host down]
+Nmap scan report for 192.168.56.157 [host down]
+Nmap scan report for 192.168.56.158 [host down]
+Nmap scan report for 192.168.56.159 [host down]
+Nmap scan report for 192.168.56.160 [host down]
+Nmap scan report for 192.168.56.161 [host down]
+Nmap scan report for 192.168.56.162 [host down]
+Nmap scan report for 192.168.56.163 [host down]
+Nmap scan report for 192.168.56.164 [host down]
+Nmap scan report for 192.168.56.165 [host down]
+Nmap scan report for 192.168.56.166 [host down]
+Nmap scan report for 192.168.56.167 [host down]
+Nmap scan report for 192.168.56.168 [host down]
+Nmap scan report for 192.168.56.169 [host down]
+Nmap scan report for 192.168.56.170 [host down]
+Nmap scan report for 192.168.56.171 [host down]
+Nmap scan report for 192.168.56.172 [host down]
+Nmap scan report for 192.168.56.173 [host down]
+Nmap scan report for 192.168.56.174 [host down]
+Nmap scan report for 192.168.56.175 [host down]
+Nmap scan report for 192.168.56.176 [host down]
+Nmap scan report for 192.168.56.177 [host down]
+Nmap scan report for 192.168.56.178 [host down]
+Nmap scan report for 192.168.56.179 [host down]
+Nmap scan report for 192.168.56.180 [host down]
+Nmap scan report for 192.168.56.181 [host down]
+Nmap scan report for 192.168.56.182 [host down]
+Nmap scan report for 192.168.56.183 [host down]
+Nmap scan report for 192.168.56.184 [host down]
+Nmap scan report for 192.168.56.185 [host down]
+Nmap scan report for 192.168.56.186 [host down]
+Nmap scan report for 192.168.56.187 [host down]
+Nmap scan report for 192.168.56.188 [host down]
+Nmap scan report for 192.168.56.189 [host down]
+Nmap scan report for 192.168.56.190 [host down]
+Nmap scan report for 192.168.56.191 [host down]
+Nmap scan report for 192.168.56.192 [host down]
+Nmap scan report for 192.168.56.193 [host down]
+Nmap scan report for 192.168.56.194 [host down]
+Nmap scan report for 192.168.56.195 [host down]
+Nmap scan report for 192.168.56.196 [host down]
+Nmap scan report for 192.168.56.197 [host down]
+Nmap scan report for 192.168.56.198 [host down]
+Nmap scan report for 192.168.56.199 [host down]
+Nmap scan report for 192.168.56.200 [host down]
+Nmap scan report for 192.168.56.201 [host down]
+Nmap scan report for 192.168.56.202 [host down]
+Nmap scan report for 192.168.56.203 [host down]
+Nmap scan report for 192.168.56.204 [host down]
+Nmap scan report for 192.168.56.205 [host down]
+Nmap scan report for 192.168.56.206 [host down]
+Nmap scan report for 192.168.56.207 [host down]
+Nmap scan report for 192.168.56.208 [host down]
+Nmap scan report for 192.168.56.209 [host down]
+Nmap scan report for 192.168.56.210 [host down]
+Nmap scan report for 192.168.56.211 [host down]
+Nmap scan report for 192.168.56.212 [host down]
+Nmap scan report for 192.168.56.213 [host down]
+Nmap scan report for 192.168.56.214 [host down]
+Nmap scan report for 192.168.56.215 [host down]
+Nmap scan report for 192.168.56.216 [host down]
+Nmap scan report for 192.168.56.217 [host down]
+Nmap scan report for 192.168.56.218 [host down]
+Nmap scan report for 192.168.56.219 [host down]
+Nmap scan report for 192.168.56.220 [host down]
+Nmap scan report for 192.168.56.221 [host down]
+Nmap scan report for 192.168.56.222 [host down]
+Nmap scan report for 192.168.56.223 [host down]
+Nmap scan report for 192.168.56.224 [host down]
+Nmap scan report for 192.168.56.225 [host down]
+Nmap scan report for 192.168.56.226 [host down]
+Nmap scan report for 192.168.56.227 [host down]
+Nmap scan report for 192.168.56.228 [host down]
+Nmap scan report for 192.168.56.229 [host down]
+Nmap scan report for 192.168.56.230 [host down]
+Nmap scan report for 192.168.56.231 [host down]
+Nmap scan report for 192.168.56.232 [host down]
+Nmap scan report for 192.168.56.233 [host down]
+Nmap scan report for 192.168.56.234 [host down]
+Nmap scan report for 192.168.56.235 [host down]
+Nmap scan report for 192.168.56.236 [host down]
+Nmap scan report for 192.168.56.237 [host down]
+Nmap scan report for 192.168.56.238 [host down]
+Nmap scan report for 192.168.56.239 [host down]
+Nmap scan report for 192.168.56.240 [host down]
+Nmap scan report for 192.168.56.241 [host down]
+Nmap scan report for 192.168.56.242 [host down]
+Nmap scan report for 192.168.56.243 [host down]
+Nmap scan report for 192.168.56.244 [host down]
+Nmap scan report for 192.168.56.245 [host down]
+Nmap scan report for 192.168.56.246 [host down]
+Nmap scan report for 192.168.56.247 [host down]
+Nmap scan report for 192.168.56.248 [host down]
+Nmap scan report for 192.168.56.249 [host down]
+Nmap scan report for 192.168.56.250 [host down]
+Nmap scan report for 192.168.56.251 [host down]
+Nmap scan report for 192.168.56.252 [host down]
+Nmap scan report for 192.168.56.253 [host down]
+Nmap scan report for 192.168.56.254 [host down]
+Nmap scan report for 192.168.56.255 [host down]
+Initiating Parallel DNS resolution of 1 host. at 17:19
+Completed Parallel DNS resolution of 1 host. at 17:19, 0.50s elapsed
+Initiating SYN Stealth Scan at 17:19
+Scanning 192.168.56.1 [1000 ports]
+Discovered open port 3306/tcp on 192.168.56.1
+Discovered open port 135/tcp on 192.168.56.1
+Discovered open port 445/tcp on 192.168.56.1
+Discovered open port 139/tcp on 192.168.56.1
+Completed SYN Stealth Scan at 17:19, 0.05s elapsed (1000 total ports)
+Initiating Service scan at 17:19
+Scanning 4 services on 192.168.56.1
+Completed Service scan at 17:19, 6.38s elapsed (4 services on 1 host)
+Initiating OS detection (try #1) against 192.168.56.1
+Retrying OS detection (try #2) against 192.168.56.1
+Retrying OS detection (try #3) against 192.168.56.1
+Retrying OS detection (try #4) against 192.168.56.1
+Retrying OS detection (try #5) against 192.168.56.1
+NSE: Script scanning 192.168.56.1.
+Initiating NSE at 17:19
+Completed NSE at 17:20, 14.28s elapsed
+Initiating NSE at 17:20
+Completed NSE at 17:20, 0.07s elapsed
+Initiating NSE at 17:20
+Completed NSE at 17:20, 0.00s elapsed
+Nmap scan report for 192.168.56.1
+Host is up (0.00023s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+3306/tcp open  mysql         MySQL (unauthorized)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.97%E=4%D=8/4%OT=135%CT=1%CU=42475%PV=Y%DS=0%DC=L%G=Y%TM=68909E6
+OS:B%P=i686-pc-windows-windows)SEQ(SP=100%GCD=1%ISR=109%TI=I%CI=I%II=I%SS=S
+OS:%TS=A)SEQ(SP=104%GCD=1%ISR=10A%TI=I%CI=I%II=I%SS=S%TS=A)SEQ(SP=105%GCD=1
+OS:%ISR=108%TI=I%CI=I%II=I%SS=S%TS=A)SEQ(SP=F9%GCD=1%ISR=109%TI=I%CI=I%II=I
+OS:%SS=S%TS=A)SEQ(SP=FF%GCD=1%ISR=105%TI=I%CI=I%II=I%SS=S%TS=A)OPS(O1=MFFD7
+OS:NW8ST11%O2=MFFD7NW8ST11%O3=MFFD7NW8NNT11%O4=MFFD7NW8ST11%O5=MFFD7NW8ST11
+OS:%O6=MFFD7ST11)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FFFF)ECN(R=
+OS:Y%DF=Y%T=80%W=FFFF%O=MFFD7NW8NNS%CC=N%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S+%F=AS%
+OS:RD=0%Q=)T2(R=Y%DF=Y%T=80%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%T=80%W=
+OS:0%S=Z%A=O%F=AR%O=%RD=0%Q=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T5
+OS:(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%S=A%A=O
+OS:%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=
+OS:N%T=80%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=Z%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=80%
+OS:CD=Z)
+
+Uptime guess: 0.023 days (since Mon Aug  4 16:46:51 2025)
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=255 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2025-08-04T11:49:50
+|_  start_date: N/A
+
+NSE: Script Post-scanning.
+Initiating NSE at 17:20
+Completed NSE at 17:20, 0.00s elapsed
+Initiating NSE at 17:20
+Completed NSE at 17:20, 0.00s elapsed
+Initiating NSE at 17:20
+Completed NSE at 17:20, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (1 host up) scanned in 94.04 seconds
+           Raw packets sent: 1590 (65.370KB) | Rcvd: 2204 (99.586KB)
